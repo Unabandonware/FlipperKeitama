@@ -8,7 +8,7 @@ The Keitama is a Japan-exclusive Tamagotchi that was released as part of the Tam
 To create the IR transmissions, the Tamagotchi Park app encoded the 10-digit codes into IR pulses through a scrambling and bit-reversal process. The full transmission protocol including pulse timings, bit order, and encoding process, was determined by examining the decompiled code from the Tamagotchi Park app.
 
 # Passwords
-The passwords were gathered from Curlour's [Neocities site](https://curlour.neocities.org/en/tmgc/ktama/listapw). Special thanks to Curlour for not only collecting these passwords, but also reverse engineering the algorithm that generates these passwords.
+The passwords were gathered from Curlour's [Neocities site](https://curlour.neocities.org/en/tmgc/ktama/listapw). Some item names have been changed to more accurate translations that match the [list of keitama items](https://tamagotchi.fandom.com/wiki/Keitai_Kaitsuu!_Tamagotchi_Plus/Item_list) on Tamagotchi Wiki. Special thanks to Curlour for not only collecting these passwords, but also reverse engineering the algorithm that generates these passwords.
 
 # How to Use
 Navigate to the communication symbol (Heart symbol) and choose けいたい (Keitai) -> ゆうびん (Mail) -> つうしん (Communication). Line up the Keitama's IR port with the Flipper's IR port and beam the password.
